@@ -16,3 +16,8 @@ Goals:
 * MongoDB
 * Flask
 * Chrome Driver 
+
+# Visuals
+
+![](missionmars1.png)
+A sample of the webpage that is displayed when the mars_app.py file is ran. 
